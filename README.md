@@ -20,19 +20,31 @@ Web API it is fairly easy to apply this later.
 ## Optional requirements
 Below are ideas to expand upon the assignment. It is recommended to do them from the top down,
 however, not strictly necessary. Also, feel free to come up with your own features.
+
 • The option for users to create sub-forums.
+
 o Each post must then belong to a sub-forum. A sub-forum could be owned by the creator, so
 the creator could be able to delete the sub-forum again, or otherwise moderate it, by
 deleting posts, etc.
+
 • The feature to comment on posts
+
 o Each user can create one or more comments to each post.
+
 • The feature to upvote/downvote posts
+
 • The feature to upvote/downvote comments
+
 • A profile page, where you can see stuff like
+
 o Overview of all your posts
+
 o Overview of all your comments
+
 o A total of points based on upvotes.
+
 • The feature to comment on comments.
+
 • Whatever you can imagine, be creative.
 
 ## Your Task
