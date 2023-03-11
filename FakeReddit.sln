@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeReddit.UI", "FakeReddit.UI\FakeReddit.UI.csproj", "{5D8CCBE9-69FD-42F7-B3CC-EF70250A8BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeReddit.Api", "FakeReddit.Api\FakeReddit.Api.csproj", "{268FB22B-819D-446F-8D74-9743D7C97E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeReddit.DataModels", "FakeReddit.DataModels\FakeReddit.DataModels.csproj", "{D7A82784-22BC-40A4-A0C3-E2540B9155C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D8CCBE9-69FD-42F7-B3CC-EF70250A8BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8CCBE9-69FD-42F7-B3CC-EF70250A8BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8CCBE9-69FD-42F7-B3CC-EF70250A8BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8CCBE9-69FD-42F7-B3CC-EF70250A8BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268FB22B-819D-446F-8D74-9743D7C97E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268FB22B-819D-446F-8D74-9743D7C97E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268FB22B-819D-446F-8D74-9743D7C97E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268FB22B-819D-446F-8D74-9743D7C97E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A82784-22BC-40A4-A0C3-E2540B9155C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A82784-22BC-40A4-A0C3-E2540B9155C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A82784-22BC-40A4-A0C3-E2540B9155C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A82784-22BC-40A4-A0C3-E2540B9155C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
